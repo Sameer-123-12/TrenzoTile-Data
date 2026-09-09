@@ -5,231 +5,231 @@
       "x": 0,
       "y": 2,
       "layer": 0,
-      "icon": "emoji"
+      "icon": "dragonfruit"
     },
     {
       "id": 2,
       "x": 1,
       "y": 2,
       "layer": 0,
-      "icon": "apple"
+      "icon": "schoolbag"
     },
     {
       "id": 3,
       "x": 2,
       "y": 1,
       "layer": 0,
-      "icon": "emoji"
+      "icon": "dragonfruit"
     },
     {
       "id": 4,
       "x": 2,
       "y": 2,
       "layer": 0,
-      "icon": "emoji"
+      "icon": "dragonfruit"
     },
     {
       "id": 5,
       "x": 2,
       "y": 3,
       "layer": 0,
-      "icon": "car"
+      "icon": "dragonfruit"
     },
     {
       "id": 6,
       "x": 3,
       "y": 2,
       "layer": 0,
-      "icon": "apple"
+      "icon": "dragonfruit"
     },
     {
       "id": 7,
       "x": 4,
       "y": 1,
       "layer": 0,
-      "icon": "car"
+      "icon": "dragonfruit"
     },
     {
       "id": 8,
       "x": 4,
       "y": 2,
       "layer": 0,
-      "icon": "apple"
+      "icon": "schoolbag"
     },
     {
       "id": 9,
       "x": 4,
       "y": 3,
       "layer": 0,
-      "icon": "apple"
+      "icon": "schoolbag"
     },
     {
       "id": 10,
       "x": 5,
       "y": 1,
       "layer": 0,
-      "icon": "apple"
+      "icon": "teddy"
     },
     {
       "id": 11,
       "x": 5,
       "y": 2,
       "layer": 0,
-      "icon": "emoji"
+      "icon": "dragonfruit"
     },
     {
       "id": 12,
       "x": 5,
       "y": 3,
       "layer": 0,
-      "icon": "apple"
+      "icon": "dragonfruit"
     },
     {
       "id": 13,
       "x": 6,
       "y": 1,
       "layer": 0,
-      "icon": "emoji"
+      "icon": "schoolbag"
     },
     {
       "id": 14,
       "x": 6,
       "y": 2,
       "layer": 0,
-      "icon": "car"
+      "icon": "schoolbag"
     },
     {
       "id": 15,
       "x": 6,
       "y": 3,
       "layer": 0,
-      "icon": "emoji"
+      "icon": "schoolbag"
     },
     {
       "id": 16,
       "x": 7,
       "y": 1,
       "layer": 0,
-      "icon": "emoji"
+      "icon": "schoolbag"
     },
     {
       "id": 17,
       "x": 7,
       "y": 2,
       "layer": 0,
-      "icon": "car"
+      "icon": "schoolbag"
     },
     {
       "id": 18,
       "x": 7,
       "y": 3,
       "layer": 0,
-      "icon": "apple"
+      "icon": "schoolbag"
     },
     {
       "id": 19,
       "x": 8,
       "y": 0,
       "layer": 0,
-      "icon": "car"
+      "icon": "schoolbag"
     },
     {
       "id": 20,
       "x": 8,
       "y": 1,
       "layer": 0,
-      "icon": "apple"
+      "icon": "schoolbag"
     },
     {
       "id": 21,
       "x": 8,
       "y": 2,
       "layer": 0,
-      "icon": "car"
+      "icon": "dragonfruit"
     },
     {
       "id": 22,
       "x": 8,
       "y": 3,
       "layer": 0,
-      "icon": "emoji"
+      "icon": "schoolbag"
     },
     {
       "id": 23,
       "x": 8,
       "y": 4,
       "layer": 0,
-      "icon": "apple"
+      "icon": "teddy"
     },
     {
       "id": 24,
       "x": 9,
       "y": 0,
       "layer": 0,
-      "icon": "apple"
+      "icon": "schoolbag"
     },
     {
       "id": 25,
       "x": 9,
       "y": 1,
       "layer": 0,
-      "icon": "apple"
+      "icon": "dragonfruit"
     },
     {
       "id": 26,
       "x": 9,
       "y": 2,
       "layer": 0,
-      "icon": "emoji"
+      "icon": "schoolbag"
     },
     {
       "id": 27,
       "x": 9,
       "y": 3,
       "layer": 0,
-      "icon": "car"
+      "icon": "dragonfruit"
     },
     {
       "id": 28,
       "x": 9,
       "y": 4,
       "layer": 0,
-      "icon": "apple"
+      "icon": "teddy"
     },
     {
       "id": 29,
-      "x": 8,
-      "y": 3,
+      "x": 2,
+      "y": 1,
       "layer": 1,
-      "icon": "emoji"
+      "icon": "dragonfruit"
     },
     {
       "id": 30,
-      "x": 4,
-      "y": 1,
-      "layer": 1,
-      "icon": "car"
-    },
-    {
-      "id": 31,
-      "x": 8,
+      "x": 5,
       "y": 2,
       "layer": 1,
-      "icon": "emoji"
+      "icon": "schoolbag"
     },
     {
       "id": 32,
-      "x": 4,
-      "y": 2,
+      "x": 7,
+      "y": 1,
       "layer": 1,
-      "icon": "emoji"
+      "icon": "dragonfruit"
     },
     {
       "id": 33,
-      "x": 6,
+      "x": 8,
+      "y": 3,
+      "layer": 1,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 34,
+      "x": 4,
       "y": 2,
       "layer": 1,
-      "icon": "car"
+      "icon": "dragonfruit"
     }
   ],
   [
@@ -238,35 +238,35 @@
       "x": 0,
       "y": 0,
       "layer": 0,
-      "icon": "star"
+      "icon": "centacap"
     },
     {
       "id": 2,
       "x": 1,
       "y": 0,
       "layer": 0,
-      "icon": "star"
+      "icon": "centacap"
     },
     {
       "id": 3,
       "x": 2,
       "y": 0,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "centacap"
     },
     {
       "id": 4,
       "x": 2,
       "y": 1,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "egg"
     },
     {
       "id": 5,
       "x": 3,
       "y": 0,
       "layer": 0,
-      "icon": "star"
+      "icon": "egg"
     },
     {
       "id": 6,
@@ -287,21 +287,21 @@
       "x": 4,
       "y": 0,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "egg"
     },
     {
       "id": 9,
       "x": 4,
       "y": 1,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "centacap"
     },
     {
       "id": 10,
       "x": 4,
       "y": 2,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "star"
     },
     {
       "id": 11,
@@ -315,28 +315,28 @@
       "x": 5,
       "y": 1,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "star"
     },
     {
       "id": 13,
       "x": 5,
       "y": 2,
       "layer": 0,
-      "icon": "star"
+      "icon": "centacap"
     },
     {
       "id": 14,
       "x": 5,
       "y": 3,
       "layer": 0,
-      "icon": "star"
+      "icon": "centacap"
     },
     {
       "id": 15,
       "x": 6,
       "y": 1,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "star"
     },
     {
       "id": 16,
@@ -350,42 +350,42 @@
       "x": 6,
       "y": 3,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "egg"
     },
     {
       "id": 18,
       "x": 7,
       "y": 2,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "egg"
     },
     {
       "id": 19,
       "x": 7,
       "y": 3,
       "layer": 0,
-      "icon": "star"
+      "icon": "centacap"
     },
     {
       "id": 20,
       "x": 7,
       "y": 4,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "star"
     },
     {
       "id": 21,
       "x": 8,
       "y": 3,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "centacap"
     },
     {
       "id": 22,
       "x": 8,
       "y": 4,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "centacap"
     },
     {
       "id": 23,
@@ -399,303 +399,345 @@
       "x": 8,
       "y": 6,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "star"
     },
     {
       "id": 25,
       "x": 9,
       "y": 4,
       "layer": 0,
-      "icon": "star"
+      "icon": "centacap"
     },
     {
       "id": 26,
       "x": 9,
       "y": 5,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "egg"
     },
     {
       "id": 27,
       "x": 9,
       "y": 6,
       "layer": 0,
-      "icon": "leaf"
+      "icon": "centacap"
     },
     {
       "id": 28,
       "x": 9,
       "y": 7,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "star"
     },
     {
       "id": 29,
       "x": 9,
       "y": 8,
       "layer": 0,
-      "icon": "turtle"
-    },
-    {
-      "id": 30,
-      "x": 3,
-      "y": 1,
-      "layer": 1,
-      "icon": "star"
-    },
-    {
-      "id": 32,
-      "x": 4,
-      "y": 0,
-      "layer": 1,
-      "icon": "star"
-    },
-    {
-      "id": 34,
-      "x": 6,
-      "y": 2,
-      "layer": 1,
-      "icon": "leaf"
-    },
-    {
-      "id": 35,
-      "x": 8,
-      "y": 4,
-      "layer": 1,
-      "icon": "star"
-    }
-  ],
-  [
-    {
-      "id": 1,
-      "x": 0,
-      "y": 1,
-      "layer": 0,
-      "icon": "flower"
-    },
-    {
-      "id": 2,
-      "x": 1,
-      "y": 0,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 3,
-      "x": 1,
-      "y": 1,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 4,
-      "x": 1,
-      "y": 2,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 5,
-      "x": 2,
-      "y": 0,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 6,
-      "x": 2,
-      "y": 1,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 7,
-      "x": 2,
-      "y": 2,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 8,
-      "x": 3,
-      "y": 0,
-      "layer": 0,
-      "icon": "flower"
-    },
-    {
-      "id": 9,
-      "x": 3,
-      "y": 1,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 10,
-      "x": 3,
-      "y": 2,
-      "layer": 0,
-      "icon": "flower"
-    },
-    {
-      "id": 11,
-      "x": 4,
-      "y": 0,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 12,
-      "x": 4,
-      "y": 1,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 13,
-      "x": 4,
-      "y": 2,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 14,
-      "x": 5,
-      "y": 0,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 15,
-      "x": 5,
-      "y": 1,
-      "layer": 0,
-      "icon": "flower"
-    },
-    {
-      "id": 16,
-      "x": 5,
-      "y": 2,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 17,
-      "x": 6,
-      "y": 0,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 18,
-      "x": 6,
-      "y": 1,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 19,
-      "x": 6,
-      "y": 2,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 20,
-      "x": 7,
-      "y": 0,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 21,
-      "x": 7,
-      "y": 1,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 22,
-      "x": 7,
-      "y": 2,
-      "layer": 0,
-      "icon": "flower"
-    },
-    {
-      "id": 23,
-      "x": 8,
-      "y": 0,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 24,
-      "x": 8,
-      "y": 1,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 25,
-      "x": 8,
-      "y": 2,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 26,
-      "x": 9,
-      "y": 0,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 27,
-      "x": 9,
-      "y": 1,
-      "layer": 0,
-      "icon": "bag"
-    },
-    {
-      "id": 28,
-      "x": 9,
-      "y": 2,
-      "layer": 0,
-      "icon": "centacap"
-    },
-    {
-      "id": 29,
-      "x": 4,
-      "y": 0,
-      "layer": 1,
-      "icon": "bag"
-    },
-    {
-      "id": 30,
-      "x": 4,
-      "y": 1,
-      "layer": 1,
       "icon": "centacap"
     },
     {
       "id": 31,
-      "x": 5,
-      "y": 1,
+      "x": 7,
+      "y": 2,
       "layer": 1,
       "icon": "centacap"
     },
     {
       "id": 32,
-      "x": 6,
-      "y": 0,
+      "x": 5,
+      "y": 1,
       "layer": 1,
-      "icon": "bag"
+      "icon": "star"
     },
     {
       "id": 33,
+      "x": 6,
+      "y": 2,
+      "layer": 1,
+      "icon": "centacap"
+    },
+    {
+      "id": 34,
+      "x": 7,
+      "y": 3,
+      "layer": 1,
+      "icon": "centacap"
+    },
+    {
+      "id": 35,
+      "x": 3,
+      "y": 1,
+      "layer": 1,
+      "icon": "star"
+    },
+    {
+      "id": 36,
+      "x": 4,
+      "y": 1,
+      "layer": 1,
+      "icon": "star"
+    },
+    {
+      "id": 37,
+      "x": 8,
+      "y": 4,
+      "layer": 1,
+      "icon": "star"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "x": 0,
+      "y": 1,
+      "layer": 0,
+      "icon": "bowl"
+    },
+    {
+      "id": 2,
+      "x": 1,
+      "y": 0,
+      "layer": 0,
+      "icon": "drum"
+    },
+    {
+      "id": 3,
+      "x": 1,
+      "y": 1,
+      "layer": 0,
+      "icon": "bowl"
+    },
+    {
+      "id": 4,
+      "x": 1,
+      "y": 2,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 5,
+      "x": 2,
+      "y": 0,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 6,
+      "x": 2,
+      "y": 1,
+      "layer": 0,
+      "icon": "drum"
+    },
+    {
+      "id": 7,
+      "x": 2,
+      "y": 2,
+      "layer": 0,
+      "icon": "bowl"
+    },
+    {
+      "id": 8,
+      "x": 3,
+      "y": 0,
+      "layer": 0,
+      "icon": "drum"
+    },
+    {
+      "id": 9,
+      "x": 3,
+      "y": 1,
+      "layer": 0,
+      "icon": "bowl"
+    },
+    {
+      "id": 10,
+      "x": 3,
+      "y": 2,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 11,
+      "x": 4,
+      "y": 0,
+      "layer": 0,
+      "icon": "drum"
+    },
+    {
+      "id": 12,
+      "x": 4,
+      "y": 1,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 13,
+      "x": 4,
+      "y": 2,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 14,
+      "x": 5,
+      "y": 0,
+      "layer": 0,
+      "icon": "bowl"
+    },
+    {
+      "id": 15,
+      "x": 5,
+      "y": 1,
+      "layer": 0,
+      "icon": "drum"
+    },
+    {
+      "id": 16,
+      "x": 5,
+      "y": 2,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 17,
+      "x": 6,
+      "y": 0,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 18,
+      "x": 6,
+      "y": 1,
+      "layer": 0,
+      "icon": "bowl"
+    },
+    {
+      "id": 19,
+      "x": 6,
+      "y": 2,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 20,
+      "x": 7,
+      "y": 0,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 21,
+      "x": 7,
+      "y": 1,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 22,
+      "x": 7,
+      "y": 2,
+      "layer": 0,
+      "icon": "drum"
+    },
+    {
+      "id": 23,
+      "x": 8,
+      "y": 0,
+      "layer": 0,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 24,
+      "x": 8,
+      "y": 1,
+      "layer": 0,
+      "icon": "bowl"
+    },
+    {
+      "id": 25,
+      "x": 8,
+      "y": 2,
+      "layer": 0,
+      "icon": "drum"
+    },
+    {
+      "id": 26,
+      "x": 9,
+      "y": 0,
+      "layer": 0,
+      "icon": "bowl"
+    },
+    {
+      "id": 27,
+      "x": 9,
+      "y": 1,
+      "layer": 0,
+      "icon": "drum"
+    },
+    {
+      "id": 28,
+      "x": 9,
+      "y": 2,
+      "layer": 0,
+      "icon": "drum"
+    },
+    {
+      "id": 30,
+      "x": 1,
+      "y": 1,
+      "layer": 1,
+      "icon": "drum"
+    },
+    {
+      "id": 31,
+      "x": 5,
+      "y": 0,
+      "layer": 1,
+      "icon": "drum"
+    },
+    {
+      "id": 32,
+      "x": 4,
+      "y": 0,
+      "layer": 1,
+      "icon": "drum"
+    },
+    {
+      "id": 33,
+      "x": 2,
+      "y": 0,
+      "layer": 1,
+      "icon": "drum"
+    },
+    {
+      "id": 34,
       "x": 7,
       "y": 0,
       "layer": 1,
-      "icon": "flower"
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 35,
+      "x": 5,
+      "y": 1,
+      "layer": 1,
+      "icon": "drum"
+    },
+    {
+      "id": 36,
+      "x": 8,
+      "y": 1,
+      "layer": 1,
+      "icon": "bowl"
+    },
+    {
+      "id": 37,
+      "x": 6,
+      "y": 1,
+      "layer": 1,
+      "icon": "drum"
     }
   ],
   [
@@ -704,718 +746,823 @@
       "x": 0,
       "y": 2,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "kulfi"
     },
     {
       "id": 2,
       "x": 0,
       "y": 3,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "octopus"
     },
     {
       "id": 3,
       "x": 0,
       "y": 4,
       "layer": 0,
-      "icon": "apple"
+      "icon": "octopus"
     },
     {
       "id": 4,
       "x": 0,
       "y": 5,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "kulfi"
     },
     {
       "id": 5,
       "x": 1,
       "y": 2,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "octopus"
     },
     {
       "id": 6,
       "x": 1,
       "y": 3,
       "layer": 0,
-      "icon": "train"
+      "icon": "octopus"
     },
     {
       "id": 7,
       "x": 1,
       "y": 4,
       "layer": 0,
-      "icon": "apple"
+      "icon": "octopus"
     },
     {
       "id": 8,
       "x": 1,
       "y": 5,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "octopus"
     },
     {
       "id": 9,
       "x": 2,
       "y": 2,
       "layer": 0,
-      "icon": "train"
+      "icon": "lemon"
     },
     {
       "id": 10,
       "x": 2,
       "y": 3,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "kulfi"
     },
     {
       "id": 11,
       "x": 2,
       "y": 4,
       "layer": 0,
-      "icon": "apple"
+      "icon": "lemon"
     },
     {
       "id": 12,
       "x": 2,
       "y": 5,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "kulfi"
     },
     {
       "id": 13,
       "x": 3,
       "y": 2,
       "layer": 0,
-      "icon": "apple"
+      "icon": "octopus"
     },
     {
       "id": 14,
       "x": 3,
       "y": 3,
       "layer": 0,
-      "icon": "train"
+      "icon": "octopus"
     },
     {
       "id": 15,
       "x": 3,
       "y": 4,
       "layer": 0,
-      "icon": "apple"
+      "icon": "octopus"
     },
     {
       "id": 16,
       "x": 4,
       "y": 2,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "octopus"
     },
     {
       "id": 17,
       "x": 4,
       "y": 3,
       "layer": 0,
-      "icon": "train"
+      "icon": "kulfi"
     },
     {
       "id": 18,
       "x": 5,
       "y": 2,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "octopus"
     },
     {
       "id": 19,
       "x": 5,
       "y": 3,
       "layer": 0,
-      "icon": "train"
+      "icon": "lemon"
     },
     {
       "id": 20,
       "x": 6,
       "y": 2,
       "layer": 0,
-      "icon": "train"
+      "icon": "kulfi"
     },
     {
       "id": 21,
       "x": 6,
       "y": 3,
       "layer": 0,
-      "icon": "train"
+      "icon": "octopus"
     },
     {
       "id": 22,
       "x": 7,
       "y": 1,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "lemon"
     },
     {
       "id": 23,
       "x": 7,
       "y": 2,
       "layer": 0,
-      "icon": "apple"
+      "icon": "octopus"
     },
     {
       "id": 24,
       "x": 8,
       "y": 1,
       "layer": 0,
-      "icon": "train"
+      "icon": "lemon"
     },
     {
       "id": 25,
       "x": 8,
       "y": 2,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "lemon"
     },
     {
       "id": 26,
       "x": 9,
       "y": 0,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "lemon"
     },
     {
       "id": 27,
       "x": 9,
       "y": 1,
       "layer": 0,
-      "icon": "turtle"
+      "icon": "lemon"
     },
     {
       "id": 28,
       "x": 10,
       "y": 0,
       "layer": 0,
-      "icon": "apple"
+      "icon": "octopus"
     },
     {
       "id": 29,
       "x": 10,
       "y": 1,
       "layer": 0,
-      "icon": "apple"
+      "icon": "lemon"
     },
     {
       "id": 30,
       "x": 11,
       "y": 0,
       "layer": 0,
-      "icon": "train"
+      "icon": "octopus"
     },
     {
       "id": 31,
-      "x": 1,
+      "x": 3,
       "y": 2,
       "layer": 1,
-      "icon": "turtle"
+      "icon": "kulfi"
+    },
+    {
+      "id": 32,
+      "x": 9,
+      "y": 0,
+      "layer": 1,
+      "icon": "lemon"
     },
     {
       "id": 33,
       "x": 0,
-      "y": 3,
-      "layer": 1,
-      "icon": "train"
-    },
-    {
-      "id": 34,
-      "x": 0,
       "y": 4,
       "layer": 1,
-      "icon": "apple"
+      "icon": "octopus"
     },
     {
       "id": 35,
+      "x": 5,
+      "y": 2,
+      "layer": 1,
+      "icon": "octopus"
+    },
+    {
+      "id": 36,
+      "x": 3,
+      "y": 3,
+      "layer": 1,
+      "icon": "kulfi"
+    },
+    {
+      "id": 37,
+      "x": 0,
+      "y": 2,
+      "layer": 1,
+      "icon": "lemon"
+    },
+    {
+      "id": 39,
+      "x": 4,
+      "y": 2,
+      "layer": 1,
+      "icon": "octopus"
+    },
+    {
+      "id": 40,
+      "x": 2,
+      "y": 2,
+      "layer": 1,
+      "icon": "lemon"
+    },
+    {
+      "id": 41,
+      "x": 1,
+      "y": 3,
+      "layer": 1,
+      "icon": "kulfi"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "x": 0,
+      "y": 3,
+      "layer": 0,
+      "icon": "greenapple"
+    },
+    {
+      "id": 2,
+      "x": 1,
+      "y": 3,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 3,
+      "x": 2,
+      "y": 2,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 4,
+      "x": 2,
+      "y": 3,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 5,
+      "x": 3,
+      "y": 2,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 6,
+      "x": 3,
+      "y": 3,
+      "layer": 0,
+      "icon": "greenapple"
+    },
+    {
+      "id": 7,
+      "x": 4,
+      "y": 2,
+      "layer": 0,
+      "icon": "car"
+    },
+    {
+      "id": 8,
+      "x": 4,
+      "y": 3,
+      "layer": 0,
+      "icon": "car"
+    },
+    {
+      "id": 9,
+      "x": 5,
+      "y": 2,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 10,
+      "x": 5,
+      "y": 3,
+      "layer": 0,
+      "icon": "greenapple"
+    },
+    {
+      "id": 11,
+      "x": 6,
+      "y": 2,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 12,
+      "x": 6,
+      "y": 3,
+      "layer": 0,
+      "icon": "greenapple"
+    },
+    {
+      "id": 13,
+      "x": 7,
+      "y": 1,
+      "layer": 0,
+      "icon": "car"
+    },
+    {
+      "id": 14,
+      "x": 7,
+      "y": 2,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 15,
+      "x": 7,
+      "y": 3,
+      "layer": 0,
+      "icon": "greenapple"
+    },
+    {
+      "id": 16,
+      "x": 7,
+      "y": 4,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 17,
+      "x": 8,
+      "y": 0,
+      "layer": 0,
+      "icon": "car"
+    },
+    {
+      "id": 18,
+      "x": 8,
+      "y": 1,
+      "layer": 0,
+      "icon": "car"
+    },
+    {
+      "id": 19,
+      "x": 8,
+      "y": 2,
+      "layer": 0,
+      "icon": "car"
+    },
+    {
+      "id": 20,
+      "x": 8,
+      "y": 3,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 21,
+      "x": 8,
+      "y": 4,
+      "layer": 0,
+      "icon": "car"
+    },
+    {
+      "id": 22,
+      "x": 8,
+      "y": 5,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 23,
+      "x": 9,
+      "y": 0,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 24,
+      "x": 9,
+      "y": 2,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 25,
+      "x": 9,
+      "y": 3,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 26,
+      "x": 9,
+      "y": 5,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 27,
       "x": 10,
       "y": 0,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 28,
+      "x": 10,
+      "y": 1,
+      "layer": 0,
+      "icon": "car"
+    },
+    {
+      "id": 29,
+      "x": 10,
+      "y": 4,
+      "layer": 0,
+      "icon": "greenapple"
+    },
+    {
+      "id": 30,
+      "x": 10,
+      "y": 5,
+      "layer": 0,
+      "icon": "chair"
+    },
+    {
+      "id": 31,
+      "x": 3,
+      "y": 2,
       "layer": 1,
-      "icon": "train"
+      "icon": "car"
+    },
+    {
+      "id": 32,
+      "x": 5,
+      "y": 2,
+      "layer": 1,
+      "icon": "car"
+    },
+    {
+      "id": 33,
+      "x": 9,
+      "y": 2,
+      "layer": 1,
+      "icon": "car"
+    },
+    {
+      "id": 34,
+      "x": 8,
+      "y": 1,
+      "layer": 1,
+      "icon": "chair"
+    },
+    {
+      "id": 35,
+      "x": 8,
+      "y": 3,
+      "layer": 1,
+      "icon": "chair"
     },
     {
       "id": 36,
       "x": 8,
-      "y": 1,
+      "y": 2,
       "layer": 1,
-      "icon": "train"
+      "icon": "greenapple"
     },
     {
       "id": 37,
-      "x": 2,
-      "y": 2,
+      "x": 8,
+      "y": 0,
       "layer": 1,
-      "icon": "turtle"
+      "icon": "car"
+    },
+    {
+      "id": 38,
+      "x": 8,
+      "y": 4,
+      "layer": 1,
+      "icon": "greenapple"
+    },
+    {
+      "id": 39,
+      "x": 7,
+      "y": 3,
+      "layer": 1,
+      "icon": "greenapple"
     }
   ],
   [
     {
       "id": 1,
       "x": 0,
-      "y": 3,
+      "y": 9,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pillow"
     },
     {
       "id": 2,
-      "x": 1,
-      "y": 3,
+      "x": 0,
+      "y": 10,
       "layer": 0,
-      "icon": "milk"
+      "icon": "cat"
     },
     {
       "id": 3,
-      "x": 2,
-      "y": 2,
+      "x": 1,
+      "y": 8,
       "layer": 0,
-      "icon": "milk"
+      "icon": "bell"
     },
     {
       "id": 4,
-      "x": 2,
-      "y": 3,
+      "x": 1,
+      "y": 9,
       "layer": 0,
-      "icon": "milk"
+      "icon": "cat"
     },
     {
       "id": 5,
-      "x": 3,
-      "y": 2,
+      "x": 1,
+      "y": 10,
       "layer": 0,
-      "icon": "redrose"
+      "icon": "cat"
     },
     {
       "id": 6,
-      "x": 3,
-      "y": 3,
+      "x": 2,
+      "y": 7,
       "layer": 0,
-      "icon": "milk"
+      "icon": "bell"
     },
     {
       "id": 7,
-      "x": 4,
-      "y": 2,
+      "x": 2,
+      "y": 8,
       "layer": 0,
-      "icon": "milk"
+      "icon": "cat"
     },
     {
       "id": 8,
-      "x": 4,
-      "y": 3,
+      "x": 2,
+      "y": 9,
       "layer": 0,
-      "icon": "milk"
+      "icon": "bell"
     },
     {
       "id": 9,
-      "x": 5,
-      "y": 2,
+      "x": 3,
+      "y": 6,
       "layer": 0,
-      "icon": "redrose"
+      "icon": "pillow"
     },
     {
       "id": 10,
-      "x": 5,
-      "y": 3,
+      "x": 3,
+      "y": 7,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "cat"
     },
     {
       "id": 11,
-      "x": 6,
-      "y": 2,
+      "x": 3,
+      "y": 8,
       "layer": 0,
-      "icon": "redrose"
+      "icon": "cat"
     },
     {
       "id": 12,
-      "x": 6,
-      "y": 3,
+      "x": 4,
+      "y": 5,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pillow"
     },
     {
       "id": 13,
-      "x": 7,
-      "y": 1,
+      "x": 4,
+      "y": 6,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "cat"
     },
     {
       "id": 14,
-      "x": 7,
-      "y": 2,
+      "x": 4,
+      "y": 7,
       "layer": 0,
-      "icon": "redrose"
+      "icon": "pillow"
     },
     {
       "id": 15,
-      "x": 7,
-      "y": 3,
+      "x": 5,
+      "y": 4,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pillow"
     },
     {
       "id": 16,
-      "x": 7,
-      "y": 4,
+      "x": 5,
+      "y": 5,
       "layer": 0,
-      "icon": "milk"
+      "icon": "bell"
     },
     {
       "id": 17,
-      "x": 8,
-      "y": 0,
+      "x": 5,
+      "y": 6,
       "layer": 0,
-      "icon": "milk"
+      "icon": "cat"
     },
     {
       "id": 18,
-      "x": 8,
-      "y": 1,
+      "x": 6,
+      "y": 3,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "bell"
     },
     {
       "id": 19,
-      "x": 8,
-      "y": 2,
+      "x": 6,
+      "y": 4,
       "layer": 0,
-      "icon": "redrose"
+      "icon": "cat"
     },
     {
       "id": 20,
-      "x": 8,
-      "y": 3,
+      "x": 6,
+      "y": 5,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pillow"
     },
     {
       "id": 21,
-      "x": 8,
-      "y": 4,
+      "x": 7,
+      "y": 2,
       "layer": 0,
-      "icon": "redrose"
+      "icon": "bell"
     },
     {
       "id": 22,
-      "x": 8,
-      "y": 5,
+      "x": 7,
+      "y": 3,
       "layer": 0,
-      "icon": "milk"
+      "icon": "bell"
     },
     {
       "id": 23,
-      "x": 9,
-      "y": 0,
+      "x": 7,
+      "y": 4,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "cat"
     },
     {
       "id": 24,
-      "x": 9,
-      "y": 2,
+      "x": 8,
+      "y": 1,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pillow"
     },
     {
       "id": 25,
-      "x": 9,
-      "y": 3,
+      "x": 8,
+      "y": 2,
       "layer": 0,
-      "icon": "redrose"
+      "icon": "bell"
     },
     {
       "id": 26,
-      "x": 9,
-      "y": 5,
+      "x": 8,
+      "y": 3,
       "layer": 0,
-      "icon": "milk"
+      "icon": "bell"
     },
     {
       "id": 27,
-      "x": 10,
-      "y": 0,
+      "x": 9,
+      "y": 1,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "bell"
     },
     {
       "id": 28,
-      "x": 10,
-      "y": 1,
+      "x": 9,
+      "y": 2,
       "layer": 0,
-      "icon": "redrose"
+      "icon": "cat"
     },
     {
       "id": 29,
       "x": 10,
-      "y": 4,
+      "y": 0,
       "layer": 0,
-      "icon": "milk"
+      "icon": "cat"
     },
     {
       "id": 30,
-      "x": 10,
-      "y": 5,
-      "layer": 0,
-      "icon": "bowl"
+      "x": 6,
+      "y": 4,
+      "layer": 1,
+      "icon": "bell"
     },
     {
       "id": 31,
       "x": 4,
-      "y": 2,
-      "layer": 1,
-      "icon": "bowl"
-    },
-    {
-      "id": 33,
-      "x": 9,
-      "y": 0,
-      "layer": 1,
-      "icon": "redrose"
-    },
-    {
-      "id": 35,
-      "x": 8,
-      "y": 3,
-      "layer": 1,
-      "icon": "milk"
-    }
-  ],
-  [
-    {
-      "id": 1,
-      "x": 0,
-      "y": 9,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 2,
-      "x": 0,
-      "y": 10,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 3,
-      "x": 1,
-      "y": 8,
-      "layer": 0,
-      "icon": "maashrom"
-    },
-    {
-      "id": 4,
-      "x": 1,
-      "y": 9,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 5,
-      "x": 1,
-      "y": 10,
-      "layer": 0,
-      "icon": "maashrom"
-    },
-    {
-      "id": 6,
-      "x": 2,
-      "y": 7,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 7,
-      "x": 2,
-      "y": 8,
-      "layer": 0,
-      "icon": "shoes"
-    },
-    {
-      "id": 8,
-      "x": 2,
-      "y": 9,
-      "layer": 0,
-      "icon": "shoes"
-    },
-    {
-      "id": 9,
-      "x": 3,
-      "y": 6,
-      "layer": 0,
-      "icon": "maashrom"
-    },
-    {
-      "id": 10,
-      "x": 3,
-      "y": 7,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 11,
-      "x": 3,
-      "y": 8,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 12,
-      "x": 4,
       "y": 5,
-      "layer": 0,
-      "icon": "maashrom"
-    },
-    {
-      "id": 13,
-      "x": 4,
-      "y": 6,
-      "layer": 0,
-      "icon": "shoes"
-    },
-    {
-      "id": 14,
-      "x": 4,
-      "y": 7,
-      "layer": 0,
-      "icon": "maashrom"
-    },
-    {
-      "id": 15,
-      "x": 5,
-      "y": 4,
-      "layer": 0,
-      "icon": "maashrom"
-    },
-    {
-      "id": 16,
-      "x": 5,
-      "y": 5,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 17,
-      "x": 5,
-      "y": 6,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 18,
-      "x": 6,
-      "y": 3,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 19,
-      "x": 6,
-      "y": 4,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 20,
-      "x": 6,
-      "y": 5,
-      "layer": 0,
-      "icon": "shoes"
-    },
-    {
-      "id": 21,
-      "x": 7,
-      "y": 2,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 22,
-      "x": 7,
-      "y": 3,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 23,
-      "x": 7,
-      "y": 4,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 24,
-      "x": 8,
-      "y": 1,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 25,
-      "x": 8,
-      "y": 2,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 26,
-      "x": 8,
-      "y": 3,
-      "layer": 0,
-      "icon": "plane"
-    },
-    {
-      "id": 27,
-      "x": 9,
-      "y": 1,
-      "layer": 0,
-      "icon": "shoes"
-    },
-    {
-      "id": 28,
-      "x": 9,
-      "y": 2,
-      "layer": 0,
-      "icon": "maashrom"
-    },
-    {
-      "id": 29,
-      "x": 10,
-      "y": 0,
-      "layer": 0,
-      "icon": "shoes"
-    },
-    {
-      "id": 30,
-      "x": 1,
-      "y": 8,
       "layer": 1,
-      "icon": "plane"
+      "icon": "pillow"
     },
     {
       "id": 32,
-      "x": 4,
-      "y": 5,
-      "layer": 1,
-      "icon": "maashrom"
-    },
-    {
-      "id": 33,
-      "x": 7,
-      "y": 2,
-      "layer": 1,
-      "icon": "maashrom"
-    },
-    {
-      "id": 34,
       "x": 8,
       "y": 1,
       "layer": 1,
-      "icon": "plane"
+      "icon": "cat"
+    },
+    {
+      "id": 33,
+      "x": 8,
+      "y": 2,
+      "layer": 1,
+      "icon": "bell"
+    },
+    {
+      "id": 34,
+      "x": 5,
+      "y": 5,
+      "layer": 1,
+      "icon": "cat"
+    },
+    {
+      "id": 35,
+      "x": 3,
+      "y": 7,
+      "layer": 1,
+      "icon": "cat"
+    },
+    {
+      "id": 36,
+      "x": 5,
+      "y": 4,
+      "layer": 1,
+      "icon": "cat"
+    },
+    {
+      "id": 37,
+      "x": 1,
+      "y": 8,
+      "layer": 1,
+      "icon": "cat"
+    },
+    {
+      "id": 38,
+      "x": 4,
+      "y": 6,
+      "layer": 1,
+      "icon": "cat"
+    },
+    {
+      "id": 39,
+      "x": 9,
+      "y": 1,
+      "layer": 1,
+      "icon": "pillow"
     }
   ],
   [
@@ -1424,231 +1571,273 @@
       "x": 0,
       "y": 10,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "blueberry"
     },
     {
       "id": 2,
       "x": 0,
       "y": 11,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "earth"
     },
     {
       "id": 3,
       "x": 0,
       "y": 12,
       "layer": 0,
-      "icon": "crown"
+      "icon": "pineapple"
     },
     {
       "id": 4,
       "x": 1,
       "y": 7,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "blueberry"
     },
     {
       "id": 5,
       "x": 1,
       "y": 8,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "earth"
     },
     {
       "id": 6,
       "x": 1,
       "y": 9,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pineapple"
     },
     {
       "id": 7,
       "x": 1,
       "y": 10,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "blueberry"
     },
     {
       "id": 8,
       "x": 2,
       "y": 6,
       "layer": 0,
-      "icon": "crown"
+      "icon": "pineapple"
     },
     {
       "id": 9,
       "x": 2,
       "y": 7,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "pineapple"
     },
     {
       "id": 10,
       "x": 2,
       "y": 8,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "earth"
     },
     {
       "id": 11,
       "x": 3,
       "y": 4,
       "layer": 0,
-      "icon": "crown"
+      "icon": "pineapple"
     },
     {
       "id": 12,
       "x": 3,
       "y": 5,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pineapple"
     },
     {
       "id": 13,
       "x": 3,
       "y": 6,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pineapple"
     },
     {
       "id": 14,
       "x": 3,
       "y": 7,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pineapple"
     },
     {
       "id": 15,
       "x": 4,
       "y": 3,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "pineapple"
     },
     {
       "id": 16,
       "x": 4,
       "y": 4,
       "layer": 0,
-      "icon": "crown"
+      "icon": "pineapple"
     },
     {
       "id": 17,
       "x": 4,
       "y": 5,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "blueberry"
     },
     {
       "id": 18,
       "x": 5,
       "y": 0,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "earth"
     },
     {
       "id": 19,
       "x": 5,
       "y": 1,
       "layer": 0,
-      "icon": "crown"
+      "icon": "pineapple"
     },
     {
       "id": 20,
       "x": 5,
       "y": 2,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "pineapple"
     },
     {
       "id": 21,
       "x": 5,
       "y": 3,
       "layer": 0,
-      "icon": "crown"
+      "icon": "earth"
     },
     {
       "id": 22,
       "x": 5,
       "y": 4,
       "layer": 0,
-      "icon": "crown"
+      "icon": "pineapple"
     },
     {
       "id": 23,
       "x": 6,
       "y": 1,
       "layer": 0,
-      "icon": "crown"
+      "icon": "pineapple"
     },
     {
       "id": 24,
       "x": 6,
       "y": 2,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "pineapple"
     },
     {
       "id": 25,
       "x": 6,
       "y": 3,
       "layer": 0,
-      "icon": "wheel"
+      "icon": "pineapple"
     },
     {
       "id": 26,
       "x": 6,
       "y": 4,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "pineapple"
     },
     {
       "id": 27,
       "x": 7,
       "y": 1,
       "layer": 0,
-      "icon": "bowl"
+      "icon": "earth"
     },
     {
       "id": 28,
       "x": 7,
       "y": 2,
       "layer": 0,
-      "icon": "crown"
+      "icon": "blueberry"
     },
     {
       "id": 29,
-      "x": 3,
-      "y": 6,
+      "x": 5,
+      "y": 1,
       "layer": 1,
-      "icon": "crown"
+      "icon": "blueberry"
     },
     {
       "id": 30,
-      "x": 5,
-      "y": 0,
+      "x": 2,
+      "y": 6,
       "layer": 1,
-      "icon": "wheel"
+      "icon": "pineapple"
     },
     {
       "id": 31,
-      "x": 6,
-      "y": 2,
+      "x": 1,
+      "y": 9,
       "layer": 1,
-      "icon": "crown"
+      "icon": "pineapple"
     },
     {
       "id": 32,
+      "x": 4,
+      "y": 3,
+      "layer": 1,
+      "icon": "pineapple"
+    },
+    {
+      "id": 33,
       "x": 6,
       "y": 1,
       "layer": 1,
-      "icon": "bowl"
+      "icon": "earth"
     },
     {
       "id": 34,
-      "x": 2,
+      "x": 3,
+      "y": 4,
+      "layer": 1,
+      "icon": "blueberry"
+    },
+    {
+      "id": 35,
+      "x": 3,
+      "y": 6,
+      "layer": 1,
+      "icon": "earth"
+    },
+    {
+      "id": 36,
+      "x": 1,
       "y": 7,
       "layer": 1,
-      "icon": "crown"
+      "icon": "pineapple"
+    },
+    {
+      "id": 37,
+      "x": 6,
+      "y": 2,
+      "layer": 1,
+      "icon": "blueberry"
+    },
+    {
+      "id": 38,
+      "x": 3,
+      "y": 5,
+      "layer": 1,
+      "icon": "blueberry"
+    },
+    {
+      "id": 39,
+      "x": 0,
+      "y": 10,
+      "layer": 1,
+      "icon": "earth"
     }
   ],
   [
@@ -1657,252 +1846,294 @@
       "x": 0,
       "y": 0,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "redrose"
     },
     {
       "id": 2,
       "x": 0,
       "y": 1,
       "layer": 0,
-      "icon": "axe"
+      "icon": "bell"
     },
     {
       "id": 3,
       "x": 0,
       "y": 2,
       "layer": 0,
-      "icon": "drum"
+      "icon": "redrose"
     },
     {
       "id": 4,
       "x": 1,
       "y": 0,
       "layer": 0,
-      "icon": "axe"
+      "icon": "dragonfruit"
     },
     {
       "id": 5,
       "x": 1,
       "y": 1,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "bell"
     },
     {
       "id": 6,
       "x": 1,
       "y": 2,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 7,
       "x": 1,
       "y": 3,
       "layer": 0,
-      "icon": "drum"
+      "icon": "dragonfruit"
     },
     {
       "id": 8,
       "x": 1,
       "y": 4,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 9,
       "x": 2,
       "y": 1,
       "layer": 0,
-      "icon": "drum"
+      "icon": "bell"
     },
     {
       "id": 10,
       "x": 2,
       "y": 2,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 11,
       "x": 2,
       "y": 3,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 12,
       "x": 2,
       "y": 4,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 13,
       "x": 2,
       "y": 5,
       "layer": 0,
-      "icon": "axe"
+      "icon": "redrose"
     },
     {
       "id": 14,
       "x": 3,
       "y": 3,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "redrose"
     },
     {
       "id": 15,
       "x": 3,
       "y": 4,
       "layer": 0,
-      "icon": "axe"
+      "icon": "bell"
     },
     {
       "id": 16,
       "x": 3,
       "y": 5,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 17,
       "x": 4,
       "y": 4,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 18,
       "x": 4,
       "y": 5,
       "layer": 0,
-      "icon": "axe"
+      "icon": "redrose"
     },
     {
       "id": 19,
       "x": 4,
       "y": 6,
       "layer": 0,
-      "icon": "axe"
+      "icon": "dragonfruit"
     },
     {
       "id": 20,
       "x": 4,
       "y": 7,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 21,
       "x": 5,
       "y": 7,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 22,
       "x": 5,
       "y": 8,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "redrose"
     },
     {
       "id": 23,
       "x": 6,
       "y": 8,
       "layer": 0,
-      "icon": "drum"
+      "icon": "bell"
     },
     {
       "id": 24,
       "x": 6,
       "y": 9,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "redrose"
     },
     {
       "id": 25,
       "x": 6,
       "y": 10,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 26,
       "x": 7,
       "y": 9,
       "layer": 0,
-      "icon": "drum"
+      "icon": "bell"
     },
     {
       "id": 27,
       "x": 7,
       "y": 10,
       "layer": 0,
-      "icon": "axe"
+      "icon": "redrose"
     },
     {
       "id": 28,
       "x": 8,
       "y": 11,
       "layer": 0,
-      "icon": "redflower"
+      "icon": "dragonfruit"
     },
     {
       "id": 29,
       "x": 8,
       "y": 12,
       "layer": 0,
-      "icon": "axe"
+      "icon": "redrose"
     },
     {
       "id": 30,
       "x": 9,
       "y": 12,
       "layer": 0,
-      "icon": "drum"
+      "icon": "redrose"
     },
     {
       "id": 31,
-      "x": 1,
-      "y": 1,
+      "x": 8,
+      "y": 11,
       "layer": 1,
-      "icon": "axe"
+      "icon": "redrose"
     },
     {
       "id": 32,
-      "x": 2,
-      "y": 3,
+      "x": 6,
+      "y": 8,
       "layer": 1,
-      "icon": "redflower"
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 33,
+      "x": 1,
+      "y": 1,
+      "layer": 1,
+      "icon": "bell"
     },
     {
       "id": 34,
-      "x": 2,
-      "y": 2,
+      "x": 4,
+      "y": 6,
       "layer": 1,
-      "icon": "axe"
+      "icon": "dragonfruit"
     },
     {
       "id": 35,
-      "x": 2,
-      "y": 1,
+      "x": 4,
+      "y": 4,
       "layer": 1,
-      "icon": "redflower"
+      "icon": "redrose"
     },
     {
       "id": 36,
-      "x": 1,
-      "y": 2,
+      "x": 2,
+      "y": 1,
       "layer": 1,
-      "icon": "axe"
+      "icon": "redrose"
     },
     {
       "id": 37,
+      "x": 5,
+      "y": 7,
+      "layer": 1,
+      "icon": "dragonfruit"
+    },
+    {
+      "id": 38,
       "x": 2,
       "y": 4,
       "layer": 1,
-      "icon": "axe"
+      "icon": "bell"
+    },
+    {
+      "id": 39,
+      "x": 2,
+      "y": 2,
+      "layer": 1,
+      "icon": "redrose"
+    },
+    {
+      "id": 40,
+      "x": 1,
+      "y": 0,
+      "layer": 1,
+      "icon": "bell"
+    },
+    {
+      "id": 41,
+      "x": 2,
+      "y": 3,
+      "layer": 1,
+      "icon": "redrose"
+    },
+    {
+      "id": 42,
+      "x": 0,
+      "y": 0,
+      "layer": 1,
+      "icon": "dragonfruit"
     }
   ]
 ]
